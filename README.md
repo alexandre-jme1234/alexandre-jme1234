@@ -8,13 +8,13 @@
 * BootCamp - The Hacking Project
 * UI/UX - Master ESD
 
-##Stack Technique
-*Framework Angular JS
-*Strapi Back Headless CMS
-*Node.js
+## Stack Technique
+* Framework Angular JS
+* Strapi Back Headless CMS
+* Node.js
 
-##Languages
-*JavaScript
-*CSS
-*TypeScript
-*HTML
+## Languages
+* JavaScript
+* CSS
+* TypeScript
+* HTML
