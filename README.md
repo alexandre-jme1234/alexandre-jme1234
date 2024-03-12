@@ -1,16 +1,20 @@
-### Hi there 👋
+###Hello, I'm Alexandre
 
-<!--
-**alexandre-jme1234/alexandre-jme1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I'm young Angular Developer with UI/UX experience.
+*I would become fullstack developper in Node.js environnement.
 
-Here are some ideas to get you started:
+##Education
+*Bootcamps - La Capsule
+*BootCamp - The Hacking Project
+*UI/UX - Master ESD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Stack Technique
+*Framework Angular JS
+*Strapi Back Headless CMS
+*Node.js
+
+##Languages
+*JavaScript
+*CSS
+*TypeScript
+*HTML
