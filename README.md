@@ -20,15 +20,9 @@
         </tr>
         </theader>
         <tbody>
-        <tr>
           <th>Angular</th>
-        </tr>
-        <tr>
           <th>Strapi Back Headless CMS</th>
-        </tr>
-        <tr>
           <th>Node.js</th>
-        </tr>
         </tbody>
 
 </table>
