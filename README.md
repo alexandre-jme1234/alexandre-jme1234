@@ -1,7 +1,7 @@
 # Hello, I'm Alexandre
 
-I'm Angular Developer with developpement experience profesionnals, and UI/UX profesionnals experience.
-I would become fullstack developper in Node.js environnement to develop user friendly and creatives applications.
+I am an Angular developer with professional development experience and UI/UX expertise. 
+I aim to transition into a full-stack developer role in a Node.js environment to create user-friendly and innovative applications.
 
 ### 🛠️ Stack Technique
 
