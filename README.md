@@ -39,12 +39,12 @@ I aim to transition into a full-stack developer role in a Node.js environment to
         </tbody>
 </table>
 
-### Education
+### 📖 Education
 * Bootcamps - La Capsule
 * BootCamp - The Hacking Project
 * UI/UX - Master ESD
 
 Thank you, for your interest on my portfolio. 
 
-
+## ✒️ Contact
 <a href="https://fr.linkedin.com/in/alexandre-jamme-125565196" >Linkedin Profil</a>
