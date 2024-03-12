@@ -1,14 +1,9 @@
-# Hello, I'm Alexandre
+# 👌Hello, I'm Alexandre
 
-* I'm Angular Developer with developpement profesionnals, and UI/UX profesionnals experience.
+* I'm Angular Developer with developpement experience profesionnals, and UI/UX profesionnals experience.
 * I would become fullstack developper in Node.js environnement to develop user friendly and creatives applications.
 
-### Education
-* Bootcamps - La Capsule
-* BootCamp - The Hacking Project
-* UI/UX - Master ESD
-
-### Stack Technique
+### 🛠️ Stack Technique
 
 <table>
         <theader>
@@ -25,7 +20,7 @@
         </tbody>
 </table>
 
-### Languages
+### 🕹️ Languages
 
 <table>
         <theader>
@@ -43,3 +38,11 @@
         <th>HTML</th>
         </tbody>
 </table>
+
+### Education
+* Bootcamps - La Capsule
+* BootCamp - The Hacking Project
+* UI/UX - Master ESD
+
+Thank you, for your interest on my portfolio.
+<a href="https://fr.linkedin.com/in/alexandre-jamme-125565196" >Linkedin Profil</a>
