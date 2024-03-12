@@ -10,7 +10,7 @@
 
 ## Stack Technique
 
-![<img src="http://....jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Angular_Logo_SVG.svg/2560px-Angular_Logo_SVG.svg.png" width="200" height="200" />]
+![<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Angular_Logo_SVG.svg/2560px-Angular_Logo_SVG.svg.png" width="200" height="200" />]
 ![AngularLogo](hh)
 * Strapi Back Headless CMS
 * Node.js
