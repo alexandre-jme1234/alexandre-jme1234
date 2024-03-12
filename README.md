@@ -11,7 +11,9 @@
 ## Stack Technique
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Angular_Logo_SVG.svg/2560px-Angular_Logo_SVG.svg.png" width="auto" height="20" alt="logo-angular"/>
+
 * Angular
+
 <img src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" width="auto" height="20" alt="logo-angular"/>
 * Strapi Back Headless CMS
   
