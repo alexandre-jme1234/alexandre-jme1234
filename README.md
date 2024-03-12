@@ -23,6 +23,7 @@
           <th>Angular</th>
           <th>Strapi Back Headless CMS</th>
           <th>Node.js</th>
+        <th>JavaScript</th>
         </tbody>
 
 </table>
@@ -30,7 +31,7 @@
 
 
 
-* JavaScript
+* 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="auto" height="20" alt="logo-CSS"/>
 
