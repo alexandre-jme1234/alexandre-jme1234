@@ -44,7 +44,7 @@ I would become fullstack developper in Node.js environnement to develop user fri
 * BootCamp - The Hacking Project
 * UI/UX - Master ESD
 
-Thank you, for your interest on my portfolio.
+Thank you, for your interest on my portfolio. Open for new opportunities, you could contact me 
 
 
 <a href="https://fr.linkedin.com/in/alexandre-jamme-125565196" >Linkedin Profil</a>
