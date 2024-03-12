@@ -1,4 +1,4 @@
-# Hello, I'm Alexandre
+# Welcome, I'm Alexandre
 
 I am an Angular developer with professional development experience and UI/UX expertise. 
 I aim to transition into a full-stack developer role in a Node.js environment to create user-friendly and innovative applications.
