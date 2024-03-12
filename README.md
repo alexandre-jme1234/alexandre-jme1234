@@ -9,7 +9,7 @@
 * UI/UX - Master ESD
 
 ## Stack Technique
-![AngularLogo](https://www.javatpoint.com/images-in-markdown#:~:text=Images%20in%20Markdown%20can%20be,exclamatory%20symbol%20at%20the%20beginning.)
+![AngularLogo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Angular_Logo_SVG.svg/2560px-Angular_Logo_SVG.svg.png)
 * Strapi Back Headless CMS
 * Node.js
 
