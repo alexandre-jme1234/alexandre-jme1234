@@ -27,7 +27,6 @@ I aim to transition into a full-stack developer role in a Node.js environment to
             <th><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="auto" height="20" alt="logo-CSS"/></th>
             <th><img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/TypeScript_Logo.png" width="auto" height="20" alt="logo-TypeScript"/></th>
                 <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/197px-Unofficial_JavaScript_logo_2.svg.png" width="auto" height="20" alt="logo-JavaScript"/></th>
-        </tr>
             <th><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="auto" height="20" alt="logo-TypeScript"/></th>
         </tr>
         </theader>
