@@ -20,10 +20,10 @@
         </tr>
         </theader>
         <tbody>
-          <th>Angular</th>
-          <th>Strapi Back Headless CMS</th>
-          <th>Node.js</th>
-        <th>JavaScript</th>
+          <th>Angular Framework</th>
+          <th>Strapi Headless CMS</th>
+          <th>Node.js Environnement</th>
+        <th>JavaScript Programming Language</th>
         </tbody>
 </table>
 
